@@ -50,3 +50,6 @@ docker run -d --name mycontainer --network mynetwork myimage
 docker network inspect mynetwork
 
 
+Docker Nachteile:
+der garent 8080:80 <image> 
+  ist ein Docker-Befehl, mit dem Sie einen Container aus einem Docker-Image erstellen und starten können, wobei Sie auch die Netzwerkports des Containers festlegen können.
